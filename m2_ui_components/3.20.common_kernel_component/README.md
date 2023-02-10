@@ -1,0 +1,1 @@
+You have to complete all the assignments in sequence to understand the UI and components
