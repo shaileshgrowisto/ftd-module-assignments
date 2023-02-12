@@ -1,4 +1,4 @@
-Create a FTD page with name mypage.ftd and using FTD variable display the text as below:
+Create a FTD page with name `mypage.ftd` and using FTD variable display the text as below:
 
 `This is my new webpage on your webpage.`
 

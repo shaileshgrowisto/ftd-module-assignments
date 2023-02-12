@@ -1,4 +1,4 @@
-Create a FTD file with the name record.ftd.
+Create a FTD file with the name `record.ftd`.
 
 In this file, you have to create a record with name student having 2 fields:
 
