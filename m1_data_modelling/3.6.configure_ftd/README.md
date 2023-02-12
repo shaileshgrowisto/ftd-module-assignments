@@ -1,7 +1,9 @@
-Create a FPM.ftd file with package name as ftd-tutorial and import fpm in this file.
+Create a FASTN.ftd file with package name as ftd-tutorial and import fastn in the  file.
 
-Refer to below code:
+Follow below code:
 
--- import: fpm
+```
+-- import: fastn
 
--- fpm.package: ftd-tutorial
+-- fastn.package: ftd-tutorial
+```

@@ -1,9 +1,10 @@
 Create a FTD file with name lists.ftd.
 
-In this file, you have to create a string list with 5 names of your friends and display them over a page
+From this instructions, you have to create a string list with 5 names of your friends and display them over a page
 
 Follow code sample below
 
+```
 -- string list friends:
 
 -- string: Kiran
@@ -13,3 +14,5 @@ Follow code sample below
 -- string: Vikas
 
 -- end: friends
+
+```
