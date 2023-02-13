@@ -69,7 +69,7 @@ string name:
 
 ```
 
-5. Create a instance of `response-record` as `response` along with `processor`. You can pass the pass the query params a field names to a HTTP processor
+5. Create a instance of `response-record` as `response` along with `processor`. You can pass the query params as field names to a HTTP processor
 
 Follow below code:
 
@@ -81,7 +81,7 @@ limit: 10
 offset: 10
 ```
 
-6. Create a component with name as `pokemon` having `caption` field with name as `name` to display the name using `ftd.text` component
+6. Create a component with name as `pokemon` having `caption` field with name as `name` to display the value of `name` field using `ftd.text` component
 
 Follow below code to create the pokemon component:
 
