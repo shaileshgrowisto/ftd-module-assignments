@@ -31,7 +31,7 @@ color if { !$present }: $inherited.colors.error.text
 
 ```
 
-2. Now to use the display component invoke it by name
+3. Now to use the display component invoke it by name
 
 Your code should look like:
 
