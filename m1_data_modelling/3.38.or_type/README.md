@@ -9,6 +9,8 @@ If the `individual` record is used, it will access it fields.
 
 If the `company` record is used, it will access it fields.
 
+Follow below steps to write the code.
+
 1. start your `or-type` with a name as `lead`. This name will be use to create `or-type` instances
 
 2. Inside `or-type` block, you have to create record with name as `individual` with 2 fields as:
