@@ -49,7 +49,8 @@ Consider the following JSON response sample:
 }
 ```
 
-4. From the JSON response, map the fields and create a record with name as `response-record` having fields
+4. From the JSON response, map the required fields to use/display and create a record with name as `response-record` having fields
+
    a. `integer` with name as `count`
    b. `results-record` with list type and name as `results` which is present as array in response
    c. `result-record` is a record nested in `response-record` having fields in `result-record` as `string` datatype with field name as `name`
